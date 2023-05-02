@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\bin\Debug\JuegoAhorcadoMio.exe.config
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\bin\Debug\JuegoAhorcadoMio.exe
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\bin\Debug\JuegoAhorcadoMio.pdb
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\obj\Debug\JuegoAhorcadoMio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\obj\Debug\JuegoAhorcadoMio.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\obj\Debug\JuegoAhorcadoMio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\obj\Debug\JuegoAhorcadoMio.exe
+C:\Users\LENOVO\source\repos\JuegoAhorcadoMio\JuegoAhorcadoMio\obj\Debug\JuegoAhorcadoMio.pdb
